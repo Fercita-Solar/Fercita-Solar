@@ -1,34 +1,16 @@
-<h1 align="center"><b>Hi , I'm Fernanda Solar</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# 🌞 Fercita-Solar
 
-<div align="center">
-<img alt="Hola" height="80px" width="75px" align="right" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
-</div>
+> **Haciendo, aprendiendo y compartiendo cosas.**
 
+---
 
+🌈 **Hola!** Soy Fercita-Solar, but you can call me Fer 
+🛠️ Me gusta crear, aprender y colaborar en proyectos digitales (y algunos análogos).  
+💻 Aquí en GitHub vas a encontrar desde experimentos hasta cosas que sí funcionan 😅  
+✨ Siempre intentando mantenerlo simple, facil de comprendery¿ y modificar.  
+🙈 No todo se muestra, pero todo suma: proyectos propios, colaboraciones, pruebas, ideas y código que crece.
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Fercita-Solar&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="Fercita |Stats" />
-   
-   <a href="https://github.com/Fercita-Solar"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fercita-Solar&theme=dracula&hide_border=true"  width="520" alt="Fercita"/></a>
-  
-![Fercita's Trophy](https://github-profile-trophy.vercel.app/?username=Fercita-Solar&theme=dracula&column=4&no-frame=true)
-
-  <img src="https://gifimage.net/wp-content/uploads/2017/09/android-gif-wallpaper-10.gif" width="500"/>
-     
- 
-  </div>
-
+💬 Si te tinca conectar, conversar, compartir ideas o sumar a algún proyecto, ¡welcome!  
+(PS: Mi DM está abierto 😎)

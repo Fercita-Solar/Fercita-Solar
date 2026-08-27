@@ -32,8 +32,8 @@ Building functional, structured, and user-centered digital platforms.
 ### 💬 Connect with me
 Open to collaborations, code discussions, and new ideas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fernanda-solar-6b87a1298/])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](solar.alsur@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-solar-6b87a1298/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solar.alsur@gmail.com)
 
 <details>
 <summary><b>Versión en español</b></summary>
